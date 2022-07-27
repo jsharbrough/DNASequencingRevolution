@@ -1,7 +1,7 @@
 # DNASequencingRevolution
 Course resources for Masters of Science for Teachers short-course in genomics, discussing all things stemming from The DNA Sequencing Revolution.
 
-# Link&nbsp;&nbsp;&nbsp;&nbsp;Description\
+# Link&nbsp;&nbsp;&nbsp;&nbsp;Description
 https://www.ncbi.nlm.nih.gov/ &nbsp;&nbsp;&nbsp;&nbsp;National Center for Bioinformatic Information – your first resource for all things genome related\
 https://genome.ucsc.edu/cgi-bin/hgGateway &nbsp;&nbsp;&nbsp;&nbsp;UCSC Genome Browser\
 https://arabidopsis.org/ &nbsp;&nbsp;&nbsp;&nbsp;The Arabidopsis information Resource (all things Arabidopsis)\
