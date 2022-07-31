@@ -13,3 +13,4 @@ https://solgenomics.net/ &nbsp;&nbsp;&nbsp;&nbsp;Solanum (tomato/potato) Genome 
 http://www.coffee-genome.org/ &nbsp;&nbsp;&nbsp;&nbsp;Coffee Genome Information\
 https://zlab.bio/guide-design-resources &nbsp;&nbsp;&nbsp;&nbsp;CRISPR Info page\
 http://chopchop.cbu.uib.no/ &nbsp;&nbsp;&nbsp;&nbsp;CRISPR gRNA design\
+https://1001genomes.org/tools.html &nbsp;&nbsp;&nbsp;&nbsp;Arabidopsis 1001 genomes project page for genotype to phenotype connections!\
